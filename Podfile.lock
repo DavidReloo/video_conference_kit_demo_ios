@@ -1,0 +1,26 @@
+PODS:
+  - ZegoExpressEngine (3.0.0):
+    - ZegoExpressEngine/Video (= 3.0.0)
+  - ZegoExpressEngine/Video (3.0.0)
+  - ZegoUIKit (1.6.3):
+    - ZegoExpressEngine (= 3.0.0)
+  - ZegoUIKitPrebuiltVideoConference (1.1.1):
+    - ZegoUIKit
+
+DEPENDENCIES:
+  - ZegoUIKitPrebuiltVideoConference
+
+SPEC REPOS:
+  trunk:
+    - ZegoExpressEngine
+    - ZegoUIKit
+    - ZegoUIKitPrebuiltVideoConference
+
+SPEC CHECKSUMS:
+  ZegoExpressEngine: 9997706e3a599ae2c8e95390c4fd001ace34fd52
+  ZegoUIKit: 7fe6a476da8f6beca6acba815f74ccadd38062d6
+  ZegoUIKitPrebuiltVideoConference: 95b0641a0cef61ea6a55f8ce2cd97b30a9d4aa4c
+
+PODFILE CHECKSUM: fdae8edc899edd8da2ab96a6ecaf27534559fcbd
+
+COCOAPODS: 1.11.3
